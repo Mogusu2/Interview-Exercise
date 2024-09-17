@@ -1,3 +1,0 @@
-Git stash acts as a version control tool and lets developers work on 
-other activities or switch branches in Git without having to discard 
-or commit changes that aren't ready
